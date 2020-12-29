@@ -1,4 +1,4 @@
-##Hash Cracker - MD5
+## Hash Cracker - MD5
     
 Using this script you can brute force any MD5 hashed password/text!
 
